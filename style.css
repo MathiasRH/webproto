@@ -1,0 +1,152 @@
+#login {
+    text-align: center;
+    background-color: aliceblue;
+}
+
+#login p {
+    font-weight: bold;
+}
+
+#splash {
+    background-image: url(kea.png);
+    width: 100%;
+    height: 34vh;
+    background-size: cover;
+    background-position: 90% 0;
+    max-width: none;
+    background-color: aqua;
+    margin-bottom: 40px;
+}
+
+button {
+    height: 30px;
+    width: 130px;
+    background-color: aqua;
+    font-family: 'Francois One', sans-serif;
+}
+
+footer {
+    border: 5px solid #CFCFCF;
+    margin-top: 40px;
+}
+
+input:hover {
+    background-color: ghostwhite;
+}
+
+button:hover {
+    background-color: aquamarine;
+    cursor: pointer;
+}
+
+#raekke {
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+    border: 5px solid aliceblue;
+    border-top: 70px solid aliceblue;
+}
+
+.billede1 {
+
+    width: 30%;
+    height: 10vh;
+    text-align: center;
+    border: 5px solid white;
+    background-color: whitesmoke;
+    padding-top: 50px;
+    font-weight: bold;
+}
+
+.billede2 {
+    width: 30%;
+    height: 10vh;
+    text-align: center;
+    border: 5px solid white;
+    background-color: whitesmoke;
+    padding-top: 50px;
+    font-weight: bold;
+}
+
+.billede3 {
+    width: 30%;
+    height: 10vh;
+    text-align: center;
+    border: 5px solid white;
+    background-color: whitesmoke;
+    padding-top: 50px;
+    font-weight: bold;
+}
+
+header {
+    width: 100%;
+    background-color: aqua;
+    position: fixed;
+}
+
+h1 {
+    color: black;
+    font-family: 'Francois One', sans-serif;
+}
+
+h2 {
+    color: midnightblue;
+    font-family: 'Francois One', sans-serif;
+}
+
+#naeste {
+    background-color: aliceblue;
+    border: 10px solid aliceblue;
+    font-family: 'Francois One', sans-serif;
+
+}
+
+#upload {
+    background-color: aliceblue;
+    border: 10px solid aliceblue;
+    font-family: 'Francois One', sans-serif;
+
+}
+
+.box {
+    background-color: aliceblue;
+    margin-bottom: 15px;
+    border: 10px solid aliceblue;
+    font-family: 'Francois One', sans-serif;
+}
+
+p {
+    font-family: 'Francois One', sans-serif;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: aqua;
+    position: relative;
+
+}
+
+
+.topnav #myLinks {
+    display: none;
+}
+
+
+.topnav a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: inline-block;
+    font-family: 'Francois One', sans-serif;
+
+}
+
+
+.topnav a.icon {
+    background: aqua;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
